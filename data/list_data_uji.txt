@@ -1,0 +1,7 @@
+mirip_huruf_a.txt
+mirip_huruf_b.txt
+mirip_huruf_c.txt
+mirip_huruf_d.txt
+mirip_huruf_e.txt
+mirip_huruf_j.txt
+mirip_huruf_k.txt
