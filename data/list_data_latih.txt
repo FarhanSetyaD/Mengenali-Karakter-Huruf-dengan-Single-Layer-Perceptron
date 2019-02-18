@@ -1,0 +1,7 @@
+huruf_a.txt
+huruf_b.txt
+huruf_c.txt
+huruf_d.txt
+huruf_e.txt
+huruf_j.txt
+huruf_k.txt
